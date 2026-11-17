@@ -1,0 +1,19 @@
+{
+  "matching_urls": ["https://pakvip1.xyz/#/WinGo/WinGo_30S",
+  "https://pakvip1.xyz/#/WinGo/WinGo_1M",
+  "https://pakvip1.xyz/#/WinGo/WinGo_5M",
+  "https://pakvip1.xyz/#/WinGo/WinGo_3M"],
+  "deposit_url": "https://pakvip1.xyz/#/wallet/Recharge",
+  "login_url": "https://pakvip1.xyz/#/login",
+  "register_url": "https://pakvip1.xyz/#/register?invitationCode=238643231307",
+  "telegram_url": "https://t.me/+S1VlxBoBvxw4OTJk",
+  "home_url": https://pakvip1.xyz",
+  "minimum_deposit": 300,
+  "allowed_numbers": ["99117888233","9199117888233"],
+  "audio_deposit": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/AA/Audio/deposit.mp3",
+  "audio_login": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/AA/Audio/login.mp3",
+  "audio_register": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/AA/Audio/register.mp3",
+  "audio_number": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/AA/Audio/deposit.mp3",
+  "audio_splash": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/AA/Audio/splash.mp3",
+  "audio_home": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/AA/Audio/home.mp3"
+}
